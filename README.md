@@ -150,16 +150,14 @@ By conducting a thorough Exploratory Data Analysis, we aim to lay the foundation
 
 The effectiveness of a churn prediction system relies on the selection and development of appropriate machine learning models. In this section, we explore various aspects of churn prediction models, including their overview, selection criteria, and the actual model development process.
 
-
+## Decision Tree Prediction
 <img width="355" alt="Screenshot 2023-11-26 171539" src="https://github.com/Sai-Sudarshan/Predicting-Customer-Churn-in-a-Telecommunications-Company/assets/116861115/ec044b4d-8f3e-4350-a456-d6cb7994e380">
 
-## Decision Tree Prediction
-
-<img width="347" alt="Screenshot 2023-11-26 173122" src="https://github.com/Sai-Sudarshan/Predicting-Customer-Churn-in-a-Telecommunications-Company/assets/116861115/fe378606-2697-4014-882b-1e1c8dcb57c4">
 
 ## Random Forest Prediction 
+<img width="347" alt="Screenshot 2023-11-26 173122" src="https://github.com/Sai-Sudarshan/Predicting-Customer-Churn-in-a-Telecommunications-Company/assets/116861115/fe378606-2697-4014-882b-1e1c8dcb57c4">
 
-### By comparing above two algorithms I have concluded that Random Forest has more accuracy than Decision Tree
+By comparing above two algorithms I have concluded that Random Forest has more accuracy than Decision Tree
 
 ## 6.1 Overview of Machine Learning Models 
 
