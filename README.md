@@ -55,8 +55,11 @@
 
 13. [**References**](#13-references)<br>
 
+14. [**Appendix**](#14-appendix)<br>
+    14.1 [Additional Charts and Graphs](#141-additional-charts-and-graphs)  
+    14.2 [Technical Details on Models](#142-technical-details-on-models)  
 
-# Functional Description
+# Executive Summary
 
 ## 1. Background
 Churn Forecast Report is designed to analyze and predict customer churn for a particular business. Understanding and reducing customer churn is critical to the continued growth and profitability of any organization.
@@ -77,7 +80,3 @@ The main objectives of this report are:
 - Regularly update and improve churn prediction model and feedback based on regular data.
 
 This report provides the foundation for informed decision-making, allowing organizations to better engage customers and improve overall customer satisfaction and experience.
-
-14. [**Appendix**](#14-appendix)<br>
-    14.1 [Additional Charts and Graphs](#141-additional-charts-and-graphs)  
-    14.2 [Technical Details on Models](#142-technical-details-on-models)  
