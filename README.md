@@ -1,7 +1,7 @@
 # Predicting-Customer-Churn-in-a-Telecommunications-Company
 # Table of Contents: Churn Prediction Report
 
-1. [**Executive Summary**](#executivesummary)<br>
+1. [**Executive Summary**](#executive-summary)<br>
    1.1 [Background](#11-background)  
    1.2 [Objectives](#12-objectives)  
    1.3 [Key Findings](#13-key-findings)  
@@ -45,7 +45,7 @@
 
 10. [**Conclusion**](#12-conclusion)<br>
 
-## Executive Summary{#executivesummary}
+## Executive Summary [#executive-summary]
 
 ## 1. Background
 The Churn Prediction Report aims to analyze and predict customer churn for the specified business. Understanding and mitigating churn is crucial for the sustained growth and profitability of any organization.
