@@ -59,7 +59,7 @@
     14.1 [Additional Charts and Graphs](#141-additional-charts-and-graphs)  
     14.2 [Technical Details on Models](#142-technical-details-on-models)  
 
-# Executive Summary {#10-executive-summary}
+## Executive Summary 
 
 ## 1. Background
 The Churn Prediction Report aims to analyze and predict customer churn for the specified business. Understanding and mitigating churn is crucial for the sustained growth and profitability of any organization.
