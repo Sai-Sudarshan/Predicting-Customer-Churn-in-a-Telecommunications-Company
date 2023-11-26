@@ -55,6 +55,29 @@
 
 13. [**References**](#13-references)<br>
 
+
+# Functional Description
+
+## 1. Background
+Churn Forecast Report is designed to analyze and predict customer churn for a particular business. Understanding and reducing customer churn is critical to the continued growth and profitability of any organization.
+
+## 2. Objectives
+The main objectives of this report are:
+- To define and evaluate the concept of customer churn >- To explore the importance of gambling and its impact on business success.
+- Build predictive models to identify potential losses.
+- Provide recommendations for retention strategies based on the review. < br> >## 3. Conclusions
+- The report gives a general overview of the losses in business.
+- Build and measure customer churn prediction models using machine learning.
+- Identify key drivers of customer churn through factor analysis.
+- Show business impact and insurance recommendations.
+
+## 4. Recommendations
+- Implement a churn prediction model designed to identify customers at risk of churn.
+- Use key findings to develop strategies and implement retention plans.
+- Regularly update and improve churn prediction model and feedback based on regular data.
+
+This report provides the foundation for informed decision-making, allowing organizations to better engage customers and improve overall customer satisfaction and experience.
+
 14. [**Appendix**](#14-appendix)<br>
     14.1 [Additional Charts and Graphs](#141-additional-charts-and-graphs)  
     14.2 [Technical Details on Models](#142-technical-details-on-models)  
