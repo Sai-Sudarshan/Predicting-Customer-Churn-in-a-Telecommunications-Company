@@ -2,7 +2,7 @@
 # Table of Contents: Churn Prediction Report
 
 1. [**Executive Summary**](#10-executive-summary)<br>
-   1.1 [Background](#11-background)  
+   * 1.1 [Background](#11-background)  
    1.2 [Objectives](#12-objectives)  
    1.3 [Key Findings](#13-key-findings)  
    1.4 [Recommendations](#14-recommendations)  
