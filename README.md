@@ -149,7 +149,9 @@ By conducting a thorough Exploratory Data Analysis, we aim to lay the foundation
 # 6. Churn Prediction Models 
 
 The effectiveness of a churn prediction system relies on the selection and development of appropriate machine learning models. In this section, we explore various aspects of churn prediction models, including their overview, selection criteria, and the actual model development process.
-<img src="Screenshot 2023-11-26 171539.png" alt="Description of the image">
+
+![Decision tree](C:\Users\venkata chalapathi\Pictures\Screenshots)
+
 
 
 
