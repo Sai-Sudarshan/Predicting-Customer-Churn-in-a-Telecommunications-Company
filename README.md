@@ -1,5 +1,5 @@
 # Predicting-Customer-Churn-in-a-Telecommunications-Company
-## Table of Contents: Churn Prediction Report
+# Table of Contents: Churn Prediction Report
 
 1. **Executive Summary**
    1.1 Background  
